@@ -86,7 +86,7 @@
         "fs-jetpack": "^2.2.2",
         "helmet": "^3.15.0",
         "moment": "^2.24.0",
-        "next": "^8.1.1-canary.40",
+        "next": "^11.1.0",
         "next-transpile-modules": "^2.3.1",
         "node-sass": "^4.12.0",
         "nodemailer": "^6.2.1",

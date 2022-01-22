@@ -115,7 +115,7 @@
         "jest": "^23.6.0",
         "next-plugin-transpile-modules": "^2.0.0",
         "ngrok": "^3.1.1",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^3.1.1",
         "nodemon": "^1.18.9",
         "pm2": "^3.5.0",
         "puppeteer": "^1.16.0",
